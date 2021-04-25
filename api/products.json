@@ -1,0 +1,71 @@
+{
+    "message": "OK",
+    "url": "/api/products.json",
+    "code": 200,
+    "data": [
+        {
+            "id": 1,
+            "name": "OLD SKOOL 36 DX",
+            "price": "85,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans1.png"
+        },
+        {
+            "id": 2,
+            "name": "COMFYCUSH OLD SKOOL",
+            "price": "75,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans2.png"
+        },
+        {
+            "id": 3,
+            "name": "OLD SKOOL DE ANTE Y LONA",
+            "price": "60,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans3.png"
+        },
+        {
+            "id": 4,
+            "name": "OLD SKOOL DE ANTE SUAVE",
+            "price": "65,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans4.png"
+        },
+        {
+            "id": 5,
+            "name": "OLD SKOOL PRO",
+            "price": "95,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans5.png"
+        },
+        {
+            "id": 6,
+            "name": "ANTI HERO OLD SKOOL PRO",
+            "price": "95,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans6.png"
+        },
+        {
+            "id": 7,
+            "name": "ERA PRIMARY CHECK",
+            "price": "95,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans7.png"
+        },
+        {
+            "id": 8,
+            "name": "STYLE 36",
+            "price": "80,00 €",
+            "button_text": "Comprar",
+            "button_link": "#",
+            "image": "resources/products/vans8.png"
+        }
+    ]
+}

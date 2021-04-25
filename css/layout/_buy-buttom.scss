@@ -1,0 +1,16 @@
+.buy-buttom{
+    width: 70px;
+    height: 8%;
+    min-height: 20px;
+    font-size: 90%;
+    font-weight: bold;
+    background: var(--black);
+    color: var(--white);
+    cursor:pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .buy-buttom:hover{
+        box-shadow: 2px 2px 6px 2px var(--black);
+    }
