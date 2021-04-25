@@ -1,6 +1,6 @@
 'use strict';
 
-let uriSlides = "http://localhost/proyectos/neoshop/api/slides.json";
+let uriSlides = "./api/slides.json";
 
 let ulSlide = document.querySelector('.slider__list');
 

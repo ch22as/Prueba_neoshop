@@ -1,6 +1,6 @@
 'use strict';
 
-let uriProducts = "http://localhost/proyectos/neoshop/api/products.json";
+let uriProducts = "./api/products.json";
 
 let sectionProducts = document.querySelector('.products__body');
 
